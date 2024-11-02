@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089501511832",
+    "project_id": "smoke-free-dfde2",
+    "storage_bucket": "smoke-free-dfde2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089501511832:android:b203b1e0af0fc7e85dd0ed",
+        "android_client_info": {
+          "package_name": "com.smoke.quitsmoke"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaUc4Csg8-65-AOTJbqjmSLfW3E5cWGLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
